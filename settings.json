@@ -39,4 +39,6 @@
   "window.menuBarVisibility": "toggle", // ALT to use
   "window.title": " ",
   "workbench.editor.enablePreview": false,
+   //LEFT PADDING
+  "editor.lineDecorationsWidth": 20
 }
