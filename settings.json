@@ -1,0 +1,42 @@
+{
+  "workbench.iconTheme": "symbols",
+  "editor.fontFamily": "JetBrains Mono  ",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "workbench.colorTheme": "Min Dark",
+  "editor.formatOnSave": true,
+  "editor.fontSize": 13.5,
+  "editor.lineHeight": 1.4,
+  "editor.fontLigatures": true,
+  "symbols.hidesExplorerArrows": false,
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "workbench.activityBar.location": "hidden",  
+  "workbench.statusBar.visible": false,
+  //SCROLLBARS
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.overviewRulerBorder": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  //EXPLORER
+  "workbench.tree.renderIndentGuides": "none",
+  "explorer.decorations.colors": false,
+  //EDITOR
+  "editor.bracketPairColorization.enabled": false,
+  "editor.guides.highlightActiveBracketPair": false,
+  "editor.guides.bracketPairsHorizontal": false,
+  //SMOOTH CURSORS
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  //ACTIVE LINE HIGHLIGHTS
+  "editor.renderLineHighlight": "none",
+  //LEFT SIDE
+  "editor.glyphMargin": false,
+  "editor.lineNumbers": "on",
+  "editor.showFoldingControls": "never",
+  //MENU TOOLBAR
+  "window.menuBarVisibility": "toggle", // ALT to use
+  "window.title": " ",
+  "workbench.editor.enablePreview": false,
+}
